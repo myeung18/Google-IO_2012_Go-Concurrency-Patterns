@@ -1,5 +1,5 @@
 package main
-
+import "fmt"
 func main() {
 	var c1, c2, c3 chan int
 
